@@ -1,4 +1,6 @@
-In this project, I have done a Thematic Analysis of video-based Advertisements. The method used is :- 
+
+### [Dataset Access](https://drive.google.com/drive/folders/1_Xn8QruZ9ngu1Chiifq9ePc_RMozMOah?usp=drive_link)
+### In this project, I have done a Thematic Analysis of video-based Advertisements. The method used is :- 
 
 1. Collecting Ads
 2. Trascribing each Ad
@@ -7,7 +9,7 @@ In this project, I have done a Thematic Analysis of video-based Advertisements. 
 5. Finding answers to predefined Research Questions.
 
 
-The Research Questions (RQs) defined for the above work are :- 
+### The Research Questions (RQs) defined for the above work are :- 
 
 ```RQ1 : Communication Strategy - How is sustainability communicated in ads through language, visuals & storytelling ?```\
 ```RQ2 : Authenticity vs Marketing - Do the ads use real practice-backed claims or are they just marketing tools ? ```\
