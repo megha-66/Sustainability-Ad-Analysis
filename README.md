@@ -11,7 +11,7 @@
 
 ### The Research Questions (RQs) defined for the above work are :- 
 
-```RQ1 : Communication Strategy - How is sustainability communicated in ads through language, visuals & storytelling ?```\
-```RQ2 : Authenticity vs Marketing - Do the ads use real practice-backed claims or are they just marketing tools ? ```\
-```RQ3 : Greenwashing Risk Assesment - How prevalent are vague, misleading or exaggerated claims? ```
+> RQ1 :``` Communication Strategy - How is sustainability communicated in ads through language, visuals & storytelling ?```\
+> RQ2 :``` Authenticity vs Marketing - Do the ads use real practice-backed claims or are they just marketing tools ? ```\
+> RQ3 :```Greenwashing Risk Assesment - How prevalent are vague, misleading or exaggerated claims? ```
 
